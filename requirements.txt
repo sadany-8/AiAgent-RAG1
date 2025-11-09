@@ -1,3 +1,5 @@
-fastapi==0.121.0
+fastapi==0.120.4
 uvicore[standard]==0.3.17 
 python-multipart==0.0.20
+python-dotenv==1.2.1
+pydantic==2.11.5
